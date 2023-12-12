@@ -20,3 +20,7 @@ This repository contains the source code for a simple Personal Library applicati
 - JPA/Hibernate
 - H2 Database (for development, easily replaceable with other databases)
 
+  ## Coming soon
+
+  -Front-end development with HTML, CSS and Js implementation
+  
